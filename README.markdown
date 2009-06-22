@@ -71,7 +71,7 @@ Dependencies
 
 6. Install other Ruby libraries:
 
-        sudo gem install facets capistrano capistrano-ext sqlite3-ruby
+        sudo gem install facets capistrano capistrano-ext sqlite3-ruby openid redcloth
 
 
 Setup
